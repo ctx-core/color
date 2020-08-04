@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color",
-	"version": "6.1.59",
+	"version": "6.1.60",
 	"description": "ctx-core color",
 	"main": "./index.js",
 	"module": "./index.js",
@@ -29,7 +29,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/math": "^4.1.58",
+		"@ctx-core/math": "^4.1.59",
 		"@ctx-core/number": "^4.0.1"
 	},
 	"devDependencies": {
