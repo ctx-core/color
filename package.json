@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color",
-	"version": "6.1.65",
+	"version": "6.1.66",
 	"description": "ctx-core color",
 	"main": "./index.js",
 	"module": "./index.js",
