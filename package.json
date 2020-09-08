@@ -30,7 +30,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/math": "^4.1.66",
-		"@ctx-core/number": "^4.0.4"
+		"@ctx-core/number": "^4.0.5"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.2"
