@@ -1,5 +1,17 @@
 # @ctx-core/color
 
+## 7.0.0
+
+### Major Changes
+
+- Typescript strict checking
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/math@5.0.0
+  - @ctx-core/number@5.0.0
+
 ## 6.1.73
 
 ### Patch Changes

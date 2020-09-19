@@ -1,6 +1,6 @@
 {
   "name": "@ctx-core/color",
-  "version": "6.1.73",
+  "version": "7.0.0",
   "description": "ctx-core color",
   "keywords": [
     "ctx-core",
@@ -31,7 +31,7 @@
     "@ctx-core/number": "workspace:*"
   },
   "devDependencies": {
-    "typescript": "^4.0.2"
+    "typescript": "^4.0.3"
   },
   "publishConfig": {
     "access": "public"
