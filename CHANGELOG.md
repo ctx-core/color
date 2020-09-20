@@ -1,5 +1,13 @@
 # @ctx-core/color
 
+## 7.0.2
+
+### Patch Changes
+
+- fix: install issues: using explicit workspace: versioning
+- Updated dependencies [undefined]
+  - @ctx-core/math@5.0.2
+
 ## 7.0.1
 
 ### Patch Changes
