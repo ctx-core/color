@@ -1,5 +1,11 @@
 # @ctx-core/color
 
+## 7.0.5
+
+### Patch Changes
+
+- version bump: sync with npm
+
 ## 7.0.4
 
 ### Patch Changes
