@@ -28,7 +28,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/math": "workspace:^5.0.21",
-		"@ctx-core/number": "workspace:^5.0.1"
+		"@ctx-core/number": "workspace:^5.0.2"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.5"
