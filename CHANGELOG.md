@@ -1,5 +1,11 @@
 # @ctx-core/color
 
+## 7.0.38
+
+### Patch Changes
+
+- @ctx-core/math@5.1.12
+
 ## 7.0.37
 
 ### Patch Changes
