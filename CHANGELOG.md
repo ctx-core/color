@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 7.0.39
+
+### Patch Changes
+
+- - .rush
+- Updated dependencies [undefined]
+  - @ctx-core/math@5.1.13
+  - @ctx-core/number@5.0.5
+
 ## 7.0.38
 
 ### Patch Changes
