@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color",
-	"version": "7.0.39",
+	"version": "7.0.40",
 	"description": "ctx-core color",
 	"keywords": [
 		"ctx-core",
@@ -28,7 +28,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/math": "workspace:^5.1.13",
-		"@ctx-core/number": "workspace:^5.0.5"
+		"@ctx-core/number": "workspace:^5.1.0"
 	},
 	"devDependencies": {
 		"typescript": "^4.1.3"
