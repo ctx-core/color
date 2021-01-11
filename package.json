@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color",
-	"version": "7.0.49",
+	"version": "7.0.50",
 	"description": "ctx-core color",
 	"keywords": [
 		"ctx-core",
@@ -27,7 +27,7 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/math": "workspace:^5.1.22",
+		"@ctx-core/math": "workspace:^5.1.23",
 		"@ctx-core/number": "workspace:^5.1.0"
 	},
 	"devDependencies": {
