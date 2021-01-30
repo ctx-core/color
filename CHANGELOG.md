@@ -1,5 +1,12 @@
 # @ctx-core/color
 
+## 7.0.54
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/number@5.2.0
+
 ## 7.0.53
 
 ### Patch Changes
