@@ -1,5 +1,16 @@
 # @ctx-core/color
 
+## 8.0.0
+
+### Major Changes
+
+- src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/math@6.0.0
+
 ## 7.0.58
 
 ### Patch Changes
