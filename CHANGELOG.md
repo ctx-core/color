@@ -1,5 +1,11 @@
 # @ctx-core/color
 
+## 8.0.5
+
+### Patch Changes
+
+- @ctx-core/math@6.0.4
+
 ## 8.0.4
 
 ### Patch Changes
