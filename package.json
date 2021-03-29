@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color",
-	"version": "8.0.27",
+	"version": "8.0.28",
 	"description": "ctx-core color",
 	"keywords": [
 		"ctx-core",
@@ -27,13 +27,14 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/math": "workspace:^6.0.25",
-		"@ctx-core/number": "workspace:^5.4.6"
+		"@ctx-core/math": "workspace:^6.0.26",
+		"@ctx-core/number": "workspace:^5.4.7"
 	},
 	"devDependencies": {
 		"typescript": "^4.2.3"
 	},
 	"publishConfig": {
-		"access": "public"
+		"access": "public",
+		"cache": "~/.npm"
 	}
 }
