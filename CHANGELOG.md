@@ -1,5 +1,17 @@
 # @ctx-core/color
 
+## 8.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/math@6.1.0
+  - @ctx-core/number@5.5.0
+
 ## 8.0.31
 
 ### Patch Changes
