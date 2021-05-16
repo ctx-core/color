@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 8.1.2
+
+### Patch Changes
+
+- .npmignore: + ~
+- Updated dependencies [undefined]
+  - @ctx-core/math@6.1.2
+  - @ctx-core/number@5.5.2
+
 ## 8.1.1
 
 ### Patch Changes
