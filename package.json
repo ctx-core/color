@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color",
-	"version": "8.1.2",
+	"version": "8.1.3",
 	"description": "ctx-core color",
 	"keywords": [
 		"ctx-core",
@@ -18,7 +18,7 @@
 	"author": "Brian Takita",
 	"main": "./src/index.js",
 	"module": "./src/index.js",
-	"types": "./src/index.ts",
+	"types": "./src/index.d.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
@@ -27,8 +27,8 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/math": "workspace:^6.1.2",
-		"@ctx-core/number": "workspace:^5.5.2"
+		"@ctx-core/math": "workspace:^6.1.3",
+		"@ctx-core/number": "workspace:^5.5.3"
 	},
 	"devDependencies": {
 		"typescript": "^4.2.4"

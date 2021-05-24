@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 8.1.3
+
+### Patch Changes
+
+- types: ./src/index.d.ts: address error TS2742 issue
+- Updated dependencies [undefined]
+  - @ctx-core/math@6.1.3
+  - @ctx-core/number@5.5.3
+
 ## 8.1.2
 
 ### Patch Changes
