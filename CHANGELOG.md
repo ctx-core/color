@@ -1,5 +1,17 @@
 # @ctx-core/color
 
+## 8.2.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/math@6.2.0
+  - @ctx-core/number@5.6.0
+
 ## 8.1.3
 
 ### Patch Changes
