@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 8.2.1
+
+### Patch Changes
+
+- .gitignore: - \*.js
+- Updated dependencies [undefined]
+  - @ctx-core/math@6.2.1
+  - @ctx-core/number@5.6.1
+
 ## 8.2.0
 
 ### Minor Changes
