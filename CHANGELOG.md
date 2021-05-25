@@ -1,5 +1,17 @@
 # @ctx-core/color
 
+## 8.3.0
+
+### Minor Changes
+
+- fix tsc build directory issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/math@6.3.0
+  - @ctx-core/number@5.7.0
+
 ## 8.2.1
 
 ### Patch Changes
