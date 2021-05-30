@@ -1,5 +1,5 @@
 import { PHI } from '@ctx-core/math'
-import { _hsv_color_a1_from_rgb_color_a1 } from './_hsv_color_a1_from_rgb_color_a1'
+import { hsv_color_a1_from_rgb_color_a_ } from './hsv_color_a1_from_rgb_color_a_'
 import type { hsv_color_a1_T } from './hsv_color_a1_T'
 import type { rgb_color_a1_T } from './rgb_color_a1_T'
 const { floor } = Math
@@ -8,7 +8,7 @@ const { floor } = Math
  * with h (hue) seperated by `1/PHI`
  * @see {@link https://martin.ankerl.com/2009/12/09/how-to-create-random-colors-programmatically/}
  */
-export function _hsv_phi_rgb_color_a1(params:_hsv_phi_rgb_color_a1_params_I) {
+export function hsv_phi_rgb_color_a_(params:_hsv_phi_rgb_color_a1_params_I) {
 	const {
 		length,
 		hsv,
@@ -24,7 +24,7 @@ export function _hsv_phi_rgb_color_a1(params:_hsv_phi_rgb_color_a1_params_I) {
 	while (n) {
 		h += inverse__PHI
 		h = h - floor(h)
-		colors.push(_hsv_color_a1_from_rgb_color_a1([h, s, v] as hsv_color_a1_T))
+		colors.push(hsv_color_a1_from_rgb_color_a_([h, s, v] as hsv_color_a1_T))
 		n--
 	}
 	return colors
@@ -34,5 +34,6 @@ export interface _hsv_phi_rgb_color_a1_params_I {
 	hsv:hsv_color_a1_T
 }
 export {
-	_hsv_phi_rgb_color_a1 as _a1__color__rgb__phi__hsv
+	hsv_phi_rgb_color_a_ as _hsv_phi_rgb_color_a1,
+	hsv_phi_rgb_color_a_ as _a1__color__rgb__phi__hsv,
 }

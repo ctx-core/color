@@ -5,7 +5,7 @@ const { floor } = Math
  * Returns a rgb array value from the given `(h,s,v)` (Hue, Saturation, Value)
  * @see {@link http://en.wikipedia.org/wiki/HSL_and_HSV#Converting_to_RGB}
  */
-export function _hsv_color_a1_from_rgb_color_a1(hsv_color_a1:hsv_color_a1_T) {
+export function hsv_color_a1_from_rgb_color_a_(hsv_color_a1:hsv_color_a1_T) {
 	const [h, s, v] = hsv_color_a1
 	const h_i = floor(h * 6)
 	const f = h * 6 - h_i
@@ -29,5 +29,6 @@ export function _hsv_color_a1_from_rgb_color_a1(hsv_color_a1:hsv_color_a1_T) {
 	return [floor(r * 256), floor(g * 256), floor(b * 256)] as rgb_color_a1_T
 }
 export {
-	_hsv_color_a1_from_rgb_color_a1 as _a1__color__rgb__from__a1__color__hsv
+	hsv_color_a1_from_rgb_color_a_ as _hsv_color_a1_from_rgb_color_a1,
+	hsv_color_a1_from_rgb_color_a_ as _a1__color__rgb__from__a1__color__hsv
 }
