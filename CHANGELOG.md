@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 9.0.1
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+- Updated dependencies [undefined]
+  - @ctx-core/math@7.0.11
+  - @ctx-core/number@6.0.1
+
 ## 9.0.0
 
 ### Major Changes
