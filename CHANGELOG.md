@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 9.0.2
+
+### Patch Changes
+
+- version bump: run build
+- Updated dependencies [undefined]
+  - @ctx-core/math@7.0.12
+  - @ctx-core/number@6.0.2
+
 ## 9.0.1
 
 ### Patch Changes
