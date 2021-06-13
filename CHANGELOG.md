@@ -1,5 +1,18 @@
 # @ctx-core/color
 
+## 9.1.1
+
+### Patch Changes
+
+- update dependencies
+
+## 9.1.0
+
+### Minor Changes
+
+- fix: return type names follow updated naming convention
+- - hsv*color_a1_from_rgb_color_a*->hsv*color_a_from_rgb_color_a*
+
 ## 9.0.2
 
 ### Patch Changes
