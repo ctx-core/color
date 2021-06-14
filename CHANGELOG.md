@@ -1,5 +1,17 @@
 # @ctx-core/color
 
+## 10.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/math@8.0.0
+  - @ctx-core/number@7.0.0
+
 ## 9.1.1
 
 ### Patch Changes
