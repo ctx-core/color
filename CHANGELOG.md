@@ -1,5 +1,21 @@
 # @ctx-core/color
 
+## 10.0.2
+
+### Patch Changes
+
+- update dependencies
+
+## 10.0.1
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/math@9.0.0
+
 ## 10.0.0
 
 ### Major Changes
