@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 10.0.6
+
+### Patch Changes
+
+- fix: npm run clean
+- Updated dependencies [undefined]
+  - @ctx-core/math@9.0.5
+  - @ctx-core/number@7.0.3
+
 ## 10.0.5
 
 ### Patch Changes

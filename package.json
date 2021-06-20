@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color",
-	"version": "10.0.5",
+	"version": "10.0.6",
 	"description": "ctx-core color",
 	"keywords": [
 		"ctx-core",
@@ -21,14 +21,14 @@
 	"types": "./src/index.d.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
-		"clean": "rm -f tsconfig.tsbuildinfo && rm -f dist/**/*.js && rm -f dist/**/*.d.ts && rm -f dist/**/*.map",
+		"clean": "rm -f tsconfig.tsbuildinfo && rm -f src/**/*.js && rm -f src/**/*.d.ts && rm -f src/**/*.map",
 		"compile": "./node_modules/.bin/tsc -b .",
 		"exec": "$@",
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/math": "workspace:^9.0.4",
-		"@ctx-core/number": "workspace:^7.0.2"
+		"@ctx-core/math": "workspace:^9.0.5",
+		"@ctx-core/number": "workspace:^7.0.3"
 	},
 	"devDependencies": {
 		"typescript": "^4.3.4"
