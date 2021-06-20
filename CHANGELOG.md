@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 10.0.9
+
+### Patch Changes
+
+- fix: deploying \*.js files
+- Updated dependencies [undefined]
+  - @ctx-core/math@9.0.8
+  - @ctx-core/number@7.0.6
+
 ## 10.0.8
 
 ### Patch Changes
