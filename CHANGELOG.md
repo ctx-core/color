@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 10.0.10
+
+### Patch Changes
+
+- "prepublishOnly": "npm run clean && npm run compile"
+- Updated dependencies [undefined]
+  - @ctx-core/math@9.0.9
+  - @ctx-core/number@7.0.7
+
 ## 10.0.9
 
 ### Patch Changes
