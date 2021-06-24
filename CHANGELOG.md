@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 10.0.11
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+- Updated dependencies [undefined]
+  - @ctx-core/math@9.0.10
+  - @ctx-core/number@7.0.8
+
 ## 10.0.10
 
 ### Patch Changes
