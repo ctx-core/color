@@ -27,7 +27,7 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/math": "workspace:^9.3.1",
+		"@ctx-core/math": "workspace:^9.3.2",
 		"@ctx-core/number": "workspace:^7.0.9"
 	},
 	"devDependencies": {
