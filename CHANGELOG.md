@@ -1,5 +1,11 @@
 # @ctx-core/color
 
+## 10.0.20
+
+### Patch Changes
+
+- update dependencies
+
 ## 10.0.19
 
 ### Patch Changes
