@@ -1,5 +1,17 @@
 # @ctx-core/color
 
+## 11.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/math@10.0.0
+  - @ctx-core/number@8.0.0
+
 ## 10.0.25
 
 ### Patch Changes
