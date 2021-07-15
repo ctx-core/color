@@ -1,5 +1,5 @@
-import type { hsv_color_a_T } from './hsv_color_a_T'
-import type { rgb_color_a_T } from './rgb_color_a_T'
+import type { hsv_color_a_T } from './hsv_color_a_T.js'
+import type { rgb_color_a_T } from './rgb_color_a_T.js'
 const { floor } = Math
 /**
  * Returns a rgb array value from the given `(h,s,v)` (Hue, Saturation, Value)

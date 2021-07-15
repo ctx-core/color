@@ -1,4 +1,4 @@
-import type { hsv_color_a_T } from './hsv_color_a_T'
+import type { hsv_color_a_T } from './hsv_color_a_T.js'
 /**
  * Inverted color for rgb_color_a as rgb_color_a
  */
