@@ -8,7 +8,7 @@ const { floor } = Math
  * with h (hue) seperated by `1/PHI`
  * @see {@link https://martin.ankerl.com/2009/12/09/how-to-create-random-colors-programmatically/}
  */
-export function hsv_phi_rgb_color_a_(params:hsv_phi_rgb_color_a_params_I_) {
+export function hsv_phi_rgb_color_a_(params:hsv_phi_rgb_color_a_params_I_):rgb_color_a_T[] {
 	const {
 		length,
 		hsv,
