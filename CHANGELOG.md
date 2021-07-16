@@ -1,5 +1,23 @@
 # @ctx-core/color
 
+## 11.0.12
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+- Updated dependencies [undefined]
+  - @ctx-core/math@10.0.10
+  - @ctx-core/number@8.0.10
+
+## 11.0.11
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+- Updated dependencies [undefined]
+  - @ctx-core/math@10.0.9
+  - @ctx-core/number@8.0.9
+
 ## 11.0.10
 
 ### Patch Changes
