@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 11.0.9
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+- Updated dependencies [undefined]
+  - @ctx-core/math@10.0.7
+  - @ctx-core/number@8.0.7
+
 ## 11.0.8
 
 ### Patch Changes
