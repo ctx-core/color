@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 11.0.10
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+- Updated dependencies [undefined]
+  - @ctx-core/math@10.0.8
+  - @ctx-core/number@8.0.8
+
 ## 11.0.9
 
 ### Patch Changes
