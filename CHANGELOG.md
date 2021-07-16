@@ -1,5 +1,32 @@
 # @ctx-core/color
 
+## 11.0.7
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/math@10.0.5
+  - @ctx-core/number@8.0.5
+
+## 11.0.6
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/math@10.0.4
+  - @ctx-core/number@8.0.4
+
+## 11.0.5
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/math@10.0.4
+  - @ctx-core/number@8.0.4
+
 ## 11.0.4
 
 ### Patch Changes
