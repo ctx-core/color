@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 11.0.18
+
+### Patch Changes
+
+- typescript: ^4.4.3 -> ^4.4.4
+- Updated dependencies [undefined]
+  - @ctx-core/math@10.0.17
+  - @ctx-core/number@8.0.16
+
 ## 11.0.17
 
 ### Patch Changes
