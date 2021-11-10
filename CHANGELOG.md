@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 11.0.19
+
+### Patch Changes
+
+- compile using swc
+- Updated dependencies
+  - @ctx-core/math@10.0.18
+  - @ctx-core/number@8.0.17
+
 ## 11.0.18
 
 ### Patch Changes
