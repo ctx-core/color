@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 11.0.27
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+- Updated dependencies
+  - @ctx-core/math@10.0.26
+  - @ctx-core/number@8.0.25
+
 ## 11.0.26
 
 ### Patch Changes
