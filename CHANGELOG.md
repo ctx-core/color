@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 11.0.28
+
+### Patch Changes
+
+- package.json: - module
+- Updated dependencies
+  - @ctx-core/math@10.0.27
+  - @ctx-core/number@8.0.26
+
 ## 11.0.27
 
 ### Patch Changes
