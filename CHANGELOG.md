@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 11.0.32
+
+### Patch Changes
+
+- \*.d.ts export
+- Updated dependencies
+  - @ctx-core/math@10.0.31
+  - @ctx-core/number@8.0.30
+
 ## 11.0.31
 
 ### Patch Changes
