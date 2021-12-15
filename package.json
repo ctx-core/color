@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color",
-	"version": "11.0.30",
+	"version": "11.0.31",
 	"description": "ctx-core color",
 	"keywords": [
 		"ctx-core",
@@ -32,8 +32,8 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/math": "workspace:^10.0.29",
-		"@ctx-core/number": "workspace:^8.0.28"
+		"@ctx-core/math": "workspace:^10.0.30",
+		"@ctx-core/number": "workspace:^8.0.29"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",

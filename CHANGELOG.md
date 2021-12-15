@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 11.0.31
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/math@10.0.30
+  - @ctx-core/number@8.0.29
+
 ## 11.0.30
 
 ### Patch Changes
