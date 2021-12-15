@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 11.0.30
+
+### Patch Changes
+
+- fix: package.json: exports
+- Updated dependencies
+  - @ctx-core/math@10.0.29
+  - @ctx-core/number@8.0.28
+
 ## 11.0.29
 
 ### Patch Changes
