@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 11.0.35
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+- Updated dependencies
+  - @ctx-core/math@10.0.34
+  - @ctx-core/number@8.0.33
+
 ## 11.0.34
 
 ### Patch Changes
