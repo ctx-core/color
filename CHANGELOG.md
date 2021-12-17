@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 11.0.34
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/math@10.0.33
+  - @ctx-core/number@8.0.32
+
 ## 11.0.33
 
 ### Patch Changes

@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color",
-	"version": "11.0.33",
+	"version": "11.0.34",
 	"description": "ctx-core color",
 	"keywords": [
 		"ctx-core",
@@ -17,7 +17,7 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./dist/index.d.ts",
+	"types": "./src/index.ts",
 	"exports": {
 		".": {
 			"import": "./dist/index.js"
@@ -35,8 +35,8 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/math": "workspace:^10.0.32",
-		"@ctx-core/number": "workspace:^8.0.31"
+		"@ctx-core/math": "workspace:^10.0.33",
+		"@ctx-core/number": "workspace:^8.0.32"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
