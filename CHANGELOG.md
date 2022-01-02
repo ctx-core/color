@@ -1,5 +1,15 @@
 # @ctx-core/color
 
+## 11.0.37
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/math@10.0.36
+  - @ctx-core/number@8.0.35
+
 ## 11.0.36
 
 ### Patch Changes
