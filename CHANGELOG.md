@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 11.0.38
+
+### Patch Changes
+
+- version bump
+- Updated dependencies
+  - @ctx-core/math@10.0.37
+  - @ctx-core/number@8.0.36
+
 ## 11.0.37
 
 ### Patch Changes
