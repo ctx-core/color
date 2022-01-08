@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color",
-	"version": "11.0.39",
+	"version": "11.0.40",
 	"description": "ctx-core color",
 	"keywords": [
 		"ctx-core",
@@ -35,8 +35,8 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/math": "workspace:^10.0.38",
-		"@ctx-core/number": "workspace:^8.0.37"
+		"@ctx-core/math": "workspace:^10.0.39",
+		"@ctx-core/number": "workspace:^8.0.38"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
@@ -48,5 +48,6 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"svelte": "./lib/index.js"
+	"svelte": "./lib/index.js",
+	"sideEffects": false
 }
