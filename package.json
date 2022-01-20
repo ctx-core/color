@@ -35,12 +35,12 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/math": "workspace:^10.0.39",
+		"@ctx-core/math": "workspace:^10.0.40",
 		"@ctx-core/number": "workspace:^8.0.38"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
-		"@swc/core": "^1.2.130",
+		"@swc/core": "^1.2.133",
 		"rimraf": "^3.0.2",
 		"typescript": "next"
 	},
