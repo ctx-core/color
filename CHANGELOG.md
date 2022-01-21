@@ -1,5 +1,11 @@
 # @ctx-core/color
 
+## 11.0.41
+
+### Patch Changes
+
+- version bump
+
 ## 11.0.40
 
 ### Patch Changes
