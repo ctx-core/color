@@ -35,7 +35,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/math": "workspace:^10.0.40",
+		"@ctx-core/math": "workspace:^10.0.41",
 		"@ctx-core/number": "workspace:^8.0.38"
 	},
 	"devDependencies": {
