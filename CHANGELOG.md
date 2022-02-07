@@ -1,5 +1,13 @@
 # @ctx-core/color
 
+## 11.0.42
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies
+  - @ctx-core/math@10.0.42
+
 ## 11.0.41
 
 ### Patch Changes
