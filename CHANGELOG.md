@@ -1,5 +1,15 @@
 # @ctx-core/color
 
+## 12.0.0
+
+### Major Changes
+
+- hsv*phi_rgb_color_a_params_I*=>hsv_phi_rgb_color_a\_\_params_T
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 11.1.0
 
 ### Minor Changes
