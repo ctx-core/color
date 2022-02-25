@@ -1,5 +1,11 @@
 # @ctx-core/color
 
+## 11.1.0
+
+### Minor Changes
+
+- feat: hex*rgb_a*
+
 ## 11.0.42
 
 ### Patch Changes

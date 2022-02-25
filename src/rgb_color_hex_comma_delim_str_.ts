@@ -1,20 +1,12 @@
-import { hex_int_ } from '@ctx-core/number'
+import { hex_rgb_a_ } from './hex_rgb_a_.js'
 /**
  * Convert hex to a comma-delimited rgb string
  * @example
- * _rgb__hex('ABC') // '170,187,204'
- * _rgb__hex('123456') // '18,52,86'
+ * rgb_color_hex_comma_delim_str_('ABC') // '170,187,204'
+ * rgb_color_hex_comma_delim_str_('123456') // '18,52,86'
  */
 export function rgb_color_hex_comma_delim_str_(hex:string):string {
-	if (hex.length === 3) {
-		hex = hex.replace(/(.)/g, (_$0, $1)=>$1 + $1)
-	}
-	const hex_a:RegExpMatchArray = hex.match(/.{1,2}/g)!
-	const hex_rgb_a = [] as number[]
-	for (let i = 0; i < hex_a.length; i++) {
-		hex_rgb_a.push(hex_int_(hex_a[i]))
-	}
-	return hex_rgb_a.join(',')
+	return hex_rgb_a_(hex).join(',')
 }
 export {
 	rgb_color_hex_comma_delim_str_ as _str__hex__color__rgb__comma_delim

@@ -1,3 +1,4 @@
+export * from './hex_rgb_a_.js'
 export * from './hsv_color_a_from_rgb_color_a_.js'
 export * from './hsv_color_a_T.js'
 export * from './hsv_phi_rgb_color_a_.js'
