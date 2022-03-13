@@ -1,5 +1,11 @@
 # @ctx-core/color
 
+## 12.0.1
+
+### Patch Changes
+
+- hex*rgb_a*: returns a rgb_color_a_T
+
 ## 12.0.0
 
 ### Major Changes
