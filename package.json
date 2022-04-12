@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color",
-	"version": "12.0.1",
+	"version": "12.0.2",
 	"description": "ctx-core color",
 	"keywords": [
 		"ctx-core",
@@ -20,9 +20,7 @@
 	"types": "./src/index.d.ts",
 	"svelte": "./src/index.js",
 	"exports": {
-		".": {
-			"import": "./src/index.js"
-		},
+		".": "./src/index.js",
 		"./package.json": "./package.json"
 	},
 	"scripts": {
@@ -35,8 +33,8 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/math": "^10.0.43",
-		"@ctx-core/number": "^8.0.38"
+		"@ctx-core/math": "workspace:^10.0.44",
+		"@ctx-core/number": "workspace:^8.0.39"
 	},
 	"devDependencies": {
 		"c8": "^7.11.0",
