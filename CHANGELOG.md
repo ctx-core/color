@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 12.0.7
+
+### Patch Changes
+
+- @ctx-core/number: ^8.0.40 -> ^8.0.41
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/math@10.0.50
+
 ## 12.0.6
 
 ### Patch Changes
