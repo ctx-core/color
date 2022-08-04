@@ -1,4 +1,4 @@
-import type { hsv_color_a_T, rgb_color_a_T } from './_types'
+import type { hsv_color_a_T, rgb_color_a_T } from '../_types'
 /**
  * Returns an array of colors with a given sv (`[saturation, value]`)
  * with h (hue) seperated by `1/PHI`

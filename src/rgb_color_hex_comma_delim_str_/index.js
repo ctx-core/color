@@ -1,4 +1,4 @@
-import { hex_rgb_a_ } from './hex_rgb_a_.js'
+import { hex_rgb_a_ } from '../hex_rgb_a_/index.js'
 /**
  * Convert hex to a comma-delimited rgb string
  * @param {string}hex

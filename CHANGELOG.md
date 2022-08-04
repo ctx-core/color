@@ -1,5 +1,11 @@
 # @ctx-core/color
 
+## 12.0.13
+
+### Patch Changes
+
+- extract directories
+
 ## 12.0.12
 
 ### Patch Changes

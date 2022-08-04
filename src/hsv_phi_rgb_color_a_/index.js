@@ -1,5 +1,5 @@
 import { PHI } from '@ctx-core/math'
-import { hsv_color_a_from_rgb_color_a_ } from './hsv_color_a_from_rgb_color_a_.js'
+import { hsv_color_a_from_rgb_color_a_ } from '../hsv_color_a_from_rgb_color_a_/index.js'
 const { floor } = Math
 /**
  * Returns an array of colors with a given sv (`[saturation, value]`)

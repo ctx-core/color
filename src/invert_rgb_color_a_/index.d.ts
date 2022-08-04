@@ -1,4 +1,4 @@
-import type { hsv_color_a_T } from './_types'
+import type { hsv_color_a_T } from '../_types'
 /**
  * Inverted color for rgb_color_a as rgb_color_a
  */

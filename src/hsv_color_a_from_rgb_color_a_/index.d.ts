@@ -1,4 +1,4 @@
-import type { hsv_color_a_T, rgb_color_a_T } from './_types'
+import type { hsv_color_a_T, rgb_color_a_T } from '../_types'
 /**
  * Returns a rgb array value from the given `(h,s,v)` (Hue, Saturation, Value)
  * @see {@link http://en.wikipedia.org/wiki/HSL_and_HSV#Converting_to_RGB}
