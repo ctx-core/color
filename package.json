@@ -33,7 +33,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/math": "^10.2.1",
+		"@ctx-core/math": "^10.3.0",
 		"@ctx-core/number": "^8.6.0"
 	},
 	"devDependencies": {
