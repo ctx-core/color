@@ -1,5 +1,11 @@
 # @ctx-core/color
 
+## 12.0.18
+
+### Patch Changes
+
+- @ctx-core/math: ^10.3.3 -> ^10.3.4
+
 ## 12.0.17
 
 ### Patch Changes
