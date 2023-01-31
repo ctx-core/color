@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 12.0.27
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/math@10.3.13
+  - @ctx-core/number@8.6.1
+
 ## 12.0.26
 
 ### Patch Changes
