@@ -10,4 +10,6 @@ import { hex_rgb_a_ } from '../hex_rgb_a_/index.js'
 export function rgb_color_hex_comma_delim_str_(hex) {
 	return hex_rgb_a_(hex).join(',')
 }
-export { rgb_color_hex_comma_delim_str_ as _str__hex__color__rgb__comma_delim }
+export {
+	rgb_color_hex_comma_delim_str_ as _str__hex__color__rgb__comma_delim
+}

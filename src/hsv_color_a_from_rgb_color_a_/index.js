@@ -1,10 +1,12 @@
 const { floor } = Math
 /**
  * Returns a rgb array value from the given `(h,s,v)` (Hue, Saturation, Value)
+ * @param {import('./hsv_color_a_T.d.ts').hsv_color_a_T}hsv_color_a
  * @see {@link http://en.wikipedia.org/wiki/HSL_and_HSV#Converting_to_RGB}
- * {import('./hsv_color_a_T.d.ts').hsv_color_a_T}hsv_color_a
  */
-export function hsv_color_a_from_rgb_color_a_(hsv_color_a) {
+export function hsv_color_a_from_rgb_color_a_(
+	hsv_color_a
+) {
 	const [h, s, v] = hsv_color_a
 	const h_i = floor(h * 6)
 	const f = h * 6 - h_i
