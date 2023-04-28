@@ -1,5 +1,11 @@
 # @ctx-core/color
 
+## 12.1.0
+
+### Minor Changes
+
+- hex*rgb_a*: handle color hash with leading '#'
+
 ## 12.0.89
 
 ### Patch Changes

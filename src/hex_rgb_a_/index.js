@@ -4,6 +4,9 @@ import { hex_int_ } from '@ctx-core/number'
  * @return {[number, number, number]}
  */
 export function hex_rgb_a_(hex) {
+	if (hex.at(0) === '#') {
+		hex = hex.replace(/^#/, '')
+	}
 	if (hex.length === 3) {
 		hex = hex.replace(/(.)/g, (_$0, $1)=>$1 + $1)
 	}
