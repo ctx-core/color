@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color",
-	"version": "12.1.2",
+	"version": "12.1.3",
 	"description": "ctx-core color",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/math": "^10.4.2",
+		"@ctx-core/math": "^10.4.3",
 		"@ctx-core/number": "^8.6.22"
 	},
 	"devDependencies": {
