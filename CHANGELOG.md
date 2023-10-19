@@ -1,5 +1,14 @@
 # @ctx-core/color
 
+## 12.1.21
+
+### Patch Changes
+
+- tsx: ^3.13.0 -> ^3.14.0
+- Updated dependencies
+  - @ctx-core/math@10.4.21
+  - @ctx-core/number@8.6.24
+
 ## 12.1.20
 
 ### Patch Changes
