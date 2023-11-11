@@ -1,5 +1,26 @@
 # @ctx-core/color
 
+## 12.2.0
+
+### Minor Changes
+
+- fix:types package.json exports
+- tsconfig:
+
+      "module": "ESNext"
+      "moduleResolution": "nodenext"
+      "target": "ESNext"
+
+- ∋ ctx-core/color
+
+### Patch Changes
+
+- package.json: - "svelte": "./src/index.js"
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - ctx-core@2.1.0
+
 ## 12.1.25
 
 ### Patch Changes
@@ -739,7 +760,7 @@
 
 ### Patch Changes
 
-- hex*rgb_a*: returns a rgb_color_a_T
+- hex*rgb_a*: returns a color_rgb_a_T
 
 ## 12.0.0
 

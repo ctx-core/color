@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color",
-	"version": "12.1.25",
+	"version": "12.2.0",
 	"description": "ctx-core color",
 	"keywords": [
 		"ctx-core",
@@ -17,10 +17,12 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.d.ts",
-	"svelte": "./src/index.js",
+	"files": [
+		"*.d.ts"
+	],
+	"types": "./index.d.ts",
 	"exports": {
-		".": "./src/index.js",
+		".": "./index.js",
 		"./package.json": "./package.json"
 	},
 	"scripts": {
@@ -33,8 +35,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/math": "^10.4.25",
-		"@ctx-core/number": "^8.6.24"
+		"ctx-core": "^2.1.0"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
