@@ -1,5 +1,11 @@
 # @ctx-core/color
 
+## 12.2.47
+
+### Patch Changes
+
+- ctx-core: ^4.14.0 -> ^4.14.1
+
 ## 12.2.46
 
 ### Patch Changes
