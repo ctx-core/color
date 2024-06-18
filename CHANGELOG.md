@@ -1,5 +1,11 @@
 # @ctx-core/color
 
+## 12.2.194
+
+### Patch Changes
+
+- ctx-core: ^7.2.19 -> ^7.2.20
+
 ## 12.2.193
 
 ### Patch Changes
